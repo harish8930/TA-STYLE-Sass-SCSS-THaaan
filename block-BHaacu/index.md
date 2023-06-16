@@ -21,3 +21,5 @@ Find the small screen design in the assets folder. And For rest of the pages ple
 - Use Archivo(https://fonts.google.com/specimen/Archivo?query=Archivo) font-family for the layout.
 
 - Once you are done with the assignment connect with the mentor and get the code reviewed.
+.....
+- 
